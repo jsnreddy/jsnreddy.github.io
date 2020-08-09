@@ -14,9 +14,10 @@ A Software Professional with experience in Machine Learning and Natural Language
 * Designed and developed the intent and entity recognition engine for IMIbot
 * Worked with latest open-source libraries and 3rd Party NLP Engines to build the intent recognition engine
 * Worked on latest NLP techniques, linguistic rules, feature engineering for Machine Learning Models for 
-  * intent classifier, 
-  * wordforms generation, 
-  * question detection
+  * Intent Classifier, 
+  * Entity Tagger
+  * Wordforms Generation, 
+  * Question Detection
 * Responsible for building the deployment scripts and logging for maintainability
 
 ### Xpresso
@@ -28,11 +29,21 @@ A Software Professional with experience in Machine Learning and Natural Language
 * Worked on the development of aspect-based sentiment analysis and trend detection modules in Xpresso
 * Worked on various POCs in multitude of 
   * domains
-    * tax services, 
-    * dining & hospitality, 
-    * government, 
-    * electronics(laptops and mobiles)) 
+    * Tax services, 
+    * Dining & hospitality, 
+    * Government, 
+    * Electronics(laptops and mobiles)) 
   * and problems
-    * resume scoring,
-    * fund recommendations based on chat-bot conversations
+    * Resume scoring,
+    * Fund recommendations based on chat-bot conversations
 * Responsible for the deployment of the Xpresso engine
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
