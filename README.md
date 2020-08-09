@@ -5,9 +5,11 @@ Machine Learning Engineer | Experienced in NLP | Love Sports and Bikes
 #### Senior AI Engineer
 * **Organisation** - [IMImobile](https://imimobile.com/)
 * **Period** - Currently working here
+
 #### NLP Engineer
 * **Organisation** - [IMImobile](https://imimobile.com/)
 * **Period** - December 2017 to June 2019
+
 #### Research Associate
 * **Organisation** - [Abzooba](https://abzooba.com/)
 * **Period** - August 2015 to November 2017
