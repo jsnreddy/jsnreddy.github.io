@@ -1,5 +1,5 @@
-## About me
-Machine Learning Engineer | Experienced in NLP | Love Sports and Bikes
+<!-- ## About me 
+Machine Learning Engineer | Experienced in NLP | Loves Sports, Bikes and Adventures -->
 
 ## Work Experience
 #### Senior AI Engineer
