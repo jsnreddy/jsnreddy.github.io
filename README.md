@@ -10,15 +10,18 @@ A Software Professional with experience in Machine Learning and Natural Language
 * Bachelor of Technology in Computer Science and Engineering from Indian Institute of Technology Guwahati between 2011 and 2015
 
 ## Projects
-### Alfred
-* Designed and developed the intent and entity recognition engine for IMIbot
-* Worked with latest open-source libraries and 3rd Party NLP Engines to build the intent recognition engine
-* Worked on latest NLP techniques, linguistic rules, feature engineering for Machine Learning Models for 
-  * Intent Classifier, 
-  * Entity Tagger
-  * Wordforms Generation, 
-  * Question Detection
-* Responsible for building the deployment scripts and logging for maintainability
+<details>
+ <summary>### Alfred</summary>
+ * Designed and developed the intent and entity recognition engine for IMIbot
+ * Worked with latest open-source libraries and 3rd Party NLP Engines to build the intent recognition engine
+ * Worked on latest NLP techniques, linguistic rules, feature engineering for Machine Learning Models for 
+   * Intent Classifier, 
+   * Entity Tagger
+   * Wordforms Generation, 
+   * Question Detection
+ * Responsible for building the deployment scripts and logging for maintainability
+
+</details>
 
 ### Xpresso
 * Worked on latest NLP techniques, linguistic rules, feature engineering for Machine Learning Models for expressions classifier
