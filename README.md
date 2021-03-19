@@ -2,9 +2,13 @@
 Machine Learning Engineer | Experienced in NLP | Loves Sports, Bikes and Adventures -->
 
 ## Work Experience
+#### Senior Machine Learning Engineer
+* **Organisation** - [GuardX](https://www.guardxinc.com/)
+* **Period** - Currently working here
+
 #### Senior AI Engineer
 * **Organisation** - [IMImobile](https://imimobile.com/)
-* **Period** - Currently working here
+* **Period** - June 2019 to December 2020
 
 #### NLP Engineer
 * **Organisation** - [IMImobile](https://imimobile.com/)
